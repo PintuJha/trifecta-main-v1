@@ -1,0 +1,33 @@
+.MuiAppBar-colorPrimary {
+    color: #8f8f8f !important;
+    background-color: #ffffff !important;
+}
+button.MuiButtonBase-root.MuiIconButton-root.App-menuButton-4.MuiIconButton-colorInherit {
+    color: #8f8f8f !important;
+}
+
+header.MuiPaper-root.MuiAppBar-root.MuiAppBar-positionFixed.MuiAppBar-colorPrimary.App-appBar-2.mui-fixed.MuiPaper-elevation4 {
+    padding: 15px 35px !important;
+}
+.App-toolbar-11 {
+    margin-top: 40px !important;
+}
+ul.MuiList-root.MuiList-padding a {
+    color: #303030;
+    text-decoration: none;
+}
+
+.MuiCollapse-wrapper {
+    padding-left: 65px !important;
+}
+
+.MuiList-padding {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+.App-drawerOpen-9 {
+    width: 275px !important;
+}
+.MuiTypography-body1 {
+    font-size: 0.9rem !important;
+}
